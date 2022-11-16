@@ -36,7 +36,12 @@ THEN I should have a function PWA application
 
 <img src="">
 
-### Deployment
+## Deployment
 
 * [Heroku](URL)
 * [GitHub]()
+
+### Work References
+
+* 28-Stu_Mini-Project
+* Free Tutoring Session and Study Group
