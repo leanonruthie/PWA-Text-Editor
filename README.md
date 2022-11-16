@@ -14,10 +14,10 @@ SO THAT I can retrieve personalized coding notes from my own app
 GIVEN my PWA application
 WHEN I open my application in visual studio code
 THEN I should see client server folder 
-WHEN I run `npm run start` from the root directory
-THEN I find that my application should starts up my entire application without errors
+WHEN I run `npm run start` from the root directory `package.json`
+THEN I find that my application should starts up both my client and server
 WHEN I run my application
-THEN I my webpack successfully bundles up with my JavaScript files h
+THEN I my webpack successfully bundles up with my JavaScript files 
 WHEN I run the plugins in my webpack
 THEN I successfully generate the following - HTML file, service worker, and a manifest file
 WHEN I use next-gen JavaScript 
