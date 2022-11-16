@@ -4,8 +4,8 @@
 
 ```md
 AS A coding rookie
-I WANT to create an alternative method to jot down class notes than to use my preexisting mac notepad
-SO THAT I can retrieve personalized notes from my own app 
+I WANT to create an alternative method to jot down coding notes than to use my preexisting mac notepad
+SO THAT I can retrieve personalized coding notes from my own app 
 ```
 
 ## Acceptance Criteria

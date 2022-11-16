@@ -40,7 +40,7 @@ module.exports = () => {
         inject: true,
         name: 'Just Another Text Editor',
         short_name: 'JATE',
-        description: 'My alternative notepa',
+        description: 'alternative coding notepad',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
