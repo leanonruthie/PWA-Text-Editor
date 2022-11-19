@@ -34,12 +34,11 @@ export const putDb = async (content) => {
     // Confirmation of request
     const result = await request;
     console.log('UPDATE successful', result);
-    return result;
   };
 
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
-  console.log('GET all from database implemented');
+  console.log('GET one from database implemented');
   console.error('getDb not implemented');
 
   // Connection to DB and its version
@@ -52,12 +51,12 @@ export const getDb = async () => {
   const store = tx.objectStore('jate');
 
   // Getting all data
-  const request = store.getAll();
+  const request = store.get(1);
 
   // Confirmation of request
   const result = await request;
   console.log('result.value', result);
-  return result;
+  return result.value;
 };
 
 initdb();
