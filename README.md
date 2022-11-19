@@ -45,8 +45,8 @@ THEN I should have a function PWA application
 
 ## Deployment
 
-* [Heroku](https://github.com/leanonruthie/RYK-PWA-Text-Editor.git)
-* [GitHub](https://git.heroku.com/young-retreat-36403.git)
+* [GitHub Repository](https://github.com/leanonruthie/RYK-PWA-Text-Editor.git)
+* [Heroku](https://git.heroku.com/young-retreat-36403.git)
 
 ### Work References
 
